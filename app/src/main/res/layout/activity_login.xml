@@ -17,12 +17,12 @@
       android:layout_width="match_parent"
       android:layout_height="wrap_content"/>
 
-    <EditText
-    android:id="@+id/nibros"
-    android:inputType="textEmailAddress"
-    android:hint="Email Address"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"/>
+  <EditText
+      android:id="@+id/mujibganteng"
+      android:inputType="textEmailAddress"
+      android:hint="Email Address"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"/>
 
   <EditText
       android:id="@+id/etPassword"
